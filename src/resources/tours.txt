@@ -1,0 +1,5 @@
+Ruta de los Lagos;Aventura;25000
+Sabores del Sur;Gastronomico;18000
+Lago Llanquihue;Lacustre;22000
+Patrimonio Chilote;Cultural;15000
+Aventura en Osorno;Aventura;30000
